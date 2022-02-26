@@ -1,4 +1,4 @@
-# Sudoku solver in python
+# Sudoku variant solver in python
 
 Have you ever wonder why people use so many nested **for loops** in solving sudoku and wished there was a simpler way to do it?
 
